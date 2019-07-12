@@ -1,0 +1,222 @@
+[
+  {
+    "código do serviço": 94793,
+    "descrição": "REGISTRO DE GAVETA BRUTO, LATÃO, ROSCÁVEL, 1 1/4, COM ACABAMENTO E CANOPLA CROMADOS, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+    "unidade": "UN",
+    "tipo": "INSUMO",
+    "código composição": 3148,
+    "descrição composição": "FITA VEDA ROSCA EM ROLOS DE 18 MM X 50 M (L X C)",
+    "unidade composição": "UN",
+    "quantidade composição": "0,0190000",
+    "valor unitário": "9,40"
+  },
+  {
+    "código do serviço": 94793,
+    "descrição": "REGISTRO DE GAVETA BRUTO, LATÃO, ROSCÁVEL, 1 1/4, COM ACABAMENTO E CANOPLA CROMADOS, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+    "unidade": "UN",
+    "tipo": "INSUMO",
+    "código composição": 6014,
+    "descrição composição": "REGISTRO GAVETA COM ACABAMENTO E CANOPLA CROMADOS, SIMPLES, BITOLA 1 1/4  (REF 1509)",
+    "unidade composição": "UN",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "100,41"
+  },
+  {
+    "código do serviço": 94793,
+    "descrição": "REGISTRO DE GAVETA BRUTO, LATÃO, ROSCÁVEL, 1 1/4, COM ACABAMENTO E CANOPLA CROMADOS, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+    "unidade": "UN",
+    "tipo": "INSUMO",
+    "código composição": 88248,
+    "descrição composição": "AUXILIAR DE ENCANADOR OU BOMBEIRO HIDRÁULICO COM ENCARGOS COMPLEMENTARES",
+    "unidade composição": "H",
+    "quantidade composição": "0,7890000",
+    "valor unitário": "15,19"
+  },
+  {
+    "código do serviço": 94793,
+    "descrição": "REGISTRO DE GAVETA BRUTO, LATÃO, ROSCÁVEL, 1 1/4, COM ACABAMENTO E CANOPLA CROMADOS, INSTALADO EM RESERVAÇÃO DE ÁGUA DE EDIFICAÇÃO QUE POSSUA RESERVATÓRIO DE FIBRA/FIBROCIMENTO FORNECIMENTO E INSTALAÇÃO. AF_06/2016",
+    "unidade": "UN",
+    "tipo": "INSUMO",
+    "código composição": 88267,
+    "descrição composição": "ENCANADOR OU BOMBEIRO HIDRÁULICO COM ENCARGOS COMPLEMENTARES",
+    "unidade composição": "H",
+    "quantidade composição": "0,7890000",
+    "valor unitário": "20,33"
+  },
+  {
+    "código do serviço": 98561,
+    "descrição": "IMPERMEABILIZAÇÃO DE PAREDES COM ARGAMASSA DE CIMENTO E AREIA, COM ADITIVO IMPERMEABILIZANTE, E = 2CM. AF_06/2018",
+    "unidade": "M2",
+    "tipo": "INSUMO",
+    "código composição": 7325,
+    "descrição composição": "ADITIVO IMPERMEABILIZANTE DE PEGA NORMAL PARA ARGAMASSAS E  CONCRETOS SEM ARMACAO",
+    "unidade composição": "KG",
+    "quantidade composição": "0,3870000",
+    "valor unitário": "4,44"
+  },
+  {
+    "código do serviço": 98561,
+    "descrição": "IMPERMEABILIZAÇÃO DE PAREDES COM ARGAMASSA DE CIMENTO E AREIA, COM ADITIVO IMPERMEABILIZANTE, E = 2CM. AF_06/2018",
+    "unidade": "M2",
+    "tipo": "COMPOSICAO",
+    "código composição": 87286,
+    "descrição composição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade composição": "M3",
+    "quantidade composição": "0,0250000",
+    "valor unitário": ""
+  },
+  {
+    "código do serviço": 98561,
+    "descrição": "IMPERMEABILIZAÇÃO DE PAREDES COM ARGAMASSA DE CIMENTO E AREIA, COM ADITIVO IMPERMEABILIZANTE, E = 2CM. AF_06/2018",
+    "unidade": "M2",
+    "tipo": "INSUMO",
+    "código composição": 88309,
+    "descrição composição": "PEDREIRO COM ENCARGOS COMPLEMENTARES",
+    "unidade composição": "H",
+    "quantidade composição": "0,8670000",
+    "valor unitário": "19,82"
+  },
+  {
+    "código do serviço": 98561,
+    "descrição": "IMPERMEABILIZAÇÃO DE PAREDES COM ARGAMASSA DE CIMENTO E AREIA, COM ADITIVO IMPERMEABILIZANTE, E = 2CM. AF_06/2018",
+    "unidade": "M2",
+    "tipo": "INSUMO",
+    "código composição": 88316,
+    "descrição composição": "SERVENTE COM ENCARGOS COMPLEMENTARES",
+    "unidade composição": "H",
+    "quantidade composição": "0,1760000",
+    "valor unitário": "14,78"
+  },
+  {
+    "código do serviço": 87286,
+    "descrição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade": "M3",
+    "tipo": "INSUMO",
+    "código composição": 370,
+    "descrição composição": "AREIA MEDIA - POSTO JAZIDA/FORNECEDOR (RETIRADO NA JAZIDA, SEM TRANSPORTE)",
+    "unidade composição": "M3",
+    "quantidade composição": "1,3000000",
+    "valor unitário": "67,50"
+  },
+  {
+    "código do serviço": 87286,
+    "descrição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade": "M3",
+    "tipo": "INSUMO",
+    "código composição": 1106,
+    "descrição composição": "CAL HIDRATADA CH-I PARA ARGAMASSAS",
+    "unidade composição": "KG",
+    "quantidade composição": "130,4900000",
+    "valor unitário": "0,47"
+  },
+  {
+    "código do serviço": 87286,
+    "descrição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade": "M3",
+    "tipo": "INSUMO",
+    "código composição": 1379,
+    "descrição composição": "CIMENTO PORTLAND COMPOSTO CP II-32",
+    "unidade composição": "KG",
+    "quantidade composição": "250,1100000",
+    "valor unitário": "0,49"
+  },
+  {
+    "código do serviço": 87286,
+    "descrição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade": "M3",
+    "tipo": "INSUMO",
+    "código composição": 88377,
+    "descrição composição": "OPERADOR DE BETONEIRA ESTACIONÁRIA/MISTURADOR COM ENCARGOS COMPLEMENTARES",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "16,00"
+  },
+  {
+    "código do serviço": 87286,
+    "descrição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade": "M3",
+    "tipo": "COMPOSICAO",
+    "código composição": 88830,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHP DIURNO. AF_10/2014",
+    "unidade composição": "CHP",
+    "quantidade composição": "1,1900000",
+    "valor unitário": ""
+  },
+  {
+    "código do serviço": 87286,
+    "descrição": "ARGAMASSA TRAÇO 1:1:6 (CIMENTO, CAL E AREIA MÉDIA) PARA EMBOÇO/MASSA ÚNICA/ASSENTAMENTO DE ALVENARIA DE VEDAÇÃO, PREPARO MECÂNICO COM BETONEIRA 400 L. AF_06/2014",
+    "unidade": "M3",
+    "tipo": "COMPOSICAO",
+    "código composição": 88831,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHI DIURNO. AF_10/2014",
+    "unidade composição": "CHI",
+    "quantidade composição": "3,9100000",
+    "valor unitário": ""
+  },
+  {
+    "código do serviço": 88830,
+    "descrição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHP DIURNO. AF_10/2014",
+    "unidade": "CHP",
+    "tipo": "INSUMO",
+    "código composição": 88826,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - DEPRECIAÇÃO. AF_10/2014",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "0,18"
+  },
+  {
+    "código do serviço": 88830,
+    "descrição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHP DIURNO. AF_10/2014",
+    "unidade": "CHP",
+    "tipo": "INSUMO",
+    "código composição": 88827,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - JUROS. AF_10/2014",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "0,04"
+  },
+  {
+    "código do serviço": 88830,
+    "descrição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHP DIURNO. AF_10/2014",
+    "unidade": "CHP",
+    "tipo": "INSUMO",
+    "código composição": 88828,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - MANUTENÇÃO. AF_10/2014",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "0,17"
+  },
+  {
+    "código do serviço": 88830,
+    "descrição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHP DIURNO. AF_10/2014",
+    "unidade": "CHP",
+    "tipo": "INSUMO",
+    "código composição": 88829,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - MATERIAIS NA OPERAÇÃO. AF_10/2014",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "0,86"
+  },
+  {
+    "código do serviço": 88831,
+    "descrição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHI DIURNO. AF_10/2014",
+    "unidade": "CHI",
+    "tipo": "INSUMO",
+    "código composição": 88826,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - DEPRECIAÇÃO. AF_10/2014",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "0,18"
+  },
+  {
+    "código do serviço": 88831,
+    "descrição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - CHI DIURNO. AF_10/2014",
+    "unidade": "CHI",
+    "tipo": "INSUMO",
+    "código composição": 88827,
+    "descrição composição": "BETONEIRA CAPACIDADE NOMINAL DE 400 L, CAPACIDADE DE MISTURA 280 L, MOTOR ELÉTRICO TRIFÁSICO POTÊNCIA DE 2 CV, SEM CARREGADOR - JUROS. AF_10/2014",
+    "unidade composição": "H",
+    "quantidade composição": "1,0000000",
+    "valor unitário": "0,04"
+  }
+]
