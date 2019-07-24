@@ -6,7 +6,7 @@
 
 ### Decisões tomadas no exercício 1:
 * Dividi os testes em duas classes, uma com os testes da funcinalidade antiga e a outra com os testes da nova funcionalidade.
-* Para fazer os teste utilizei JUnit.
+* Utilizei JUnit para fazer os testes.
 * Efetuei algumas correções na funcionalidade antiga:
   - Correção de nome da constante "umaNota".
   - Criei uma constante para as várias notas.
@@ -18,6 +18,13 @@
   - Criei um contador para somar o total final.
   - Criei testes para o cenário de sucesso com uma nota, sucesso com uma lista de notas e com a lista vazia.
   
-  ### Decisões tomadas no exercício 2:
-  * Infelizmente não consegui fazer esse exercício, pois tive problemas com "json simple", biblioteca que eu decidi utilizar para 
-  efetuar a leitura do arquivo JSON e com isso não deu tempo.
+### Decisões tomadas no exercício 2:
+* Utilizei json-simple para fazer a leitura do arquivo JSON.
+* Criei um método para converter string para double.
+* Criei uma classe para representar o serviço.
+* Criei algumas constantes.
+* Decidi seguir o seguinte roteiro:
+  - Fazer a leitura do arquivo JSON e criar uma lista com todos os serviços.
+  - Depois um foreach para percorrer a lista e calcular o valor unitário * quantidade composição, caso seja do tipo Composição, são agrupados os itens que fazer parte dessa composição e calculado o seu total.
+  - Em seguida é calculado o total de cada grupo e adicionado o grupo na lista de retorno.
+  - Enfim é mostrado a lista final.
