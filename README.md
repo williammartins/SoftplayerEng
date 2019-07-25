@@ -21,10 +21,12 @@
 ### Decisões tomadas no exercício 2:
 * Utilizei json-simple para fazer a leitura do arquivo JSON.
 * Criei um método para converter string para double.
-* Criei uma classe para representar o serviço.
+* Criei uma classe para representar o serviço dentro do pacote "dto".
+* Criei uma classe service dentro do pacote "service".
 * Criei algumas constantes.
 * Decidi seguir o seguinte roteiro:
-  - Fazer a leitura do arquivo JSON e criar uma lista com todos os serviços.
-  - Depois um foreach para percorrer a lista e calcular o valor unitário * quantidade composição, caso seja do tipo Composição, são agrupados os itens que fazer parte dessa composição e calculado o seu total.
-  - Em seguida é calculado o total de cada grupo e adicionado o grupo na lista de retorno.
-  - Enfim é mostrado a lista final.
+  - A classe Main chama o serviço responsável por fazer todo o processo.
+  - Criei um método onde faz a leitura do arquivo JSON e cria uma lista com todos os serviços.
+  - Depois outro método que tem um foreach para percorrer a lista e calcular o valor unitário * quantidade composição, caso seja do tipo Composição, é chamado outro método onde são agrupados os itens que fazem parte dessa composição e calculado o seu total.
+  - Em seguida é chamado outro método onde é calculado o total de cada grupo e adicionado o grupo na lista de retorno.
+  - A classe Main recebe esse resultado e é mostrado a lista final.
